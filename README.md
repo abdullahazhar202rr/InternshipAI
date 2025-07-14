@@ -17,7 +17,7 @@ A Virtual Try-On system that allows users to try on clothing items virtually.
 - Support for trying on **tops** and **bottoms**
 - Bottom and top module development:  
   - **Started:** 10-07-2025  
-  - **Completed:** 14-07-2025
+  - **Completed:** 12-07-2025
 
 ---
 
